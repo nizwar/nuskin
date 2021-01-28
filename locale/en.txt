@@ -1,0 +1,35 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+panorama_4A26052E_4313_06F7_41A6_514F694275F5.label = 06_Panoramic - 0009
+panorama_4A26475D_4313_0154_41B8_1330D443C13F.label = 06_Panoramic - 0003
+panorama_4A267FB1_4313_01ED_41CA_D1558897CAD8.label = 06_Panoramic - 0004
+panorama_4A268027_4313_1EF5_41C1_A6DE0C08D8D3.label = 06_Panoramic - 0006
+panorama_4A26909F_4313_3FD5_41BC_C1D80A12C2AB.label = 06_Panoramic - 0008
+panorama_4A26B816_4313_0ED7_41CD_6370E949ACC6.label = 06_Panoramic - 0005
+panorama_4A26D98A_4313_01BF_41C5_A37CC2FDE971.label = 06_Panoramic - 0010
+panorama_4A26E87E_4313_0F57_41AE_194BB9BCF4F6.label = 06_Panoramic - 0007
+panorama_4A279E93_4313_03AD_41C3_70890DA18974.label = 06_Panoramic - 0002
+panorama_4A28C5EE_4313_0177_41B0_F7BDF3EF37F6.label = 06_Panoramic - 0001
+panorama_4A4BFD1A_4313_06DF_41CA_79628504730E.label = 06_Panoramic - 0000
+
+## Action
+
+### URL
+LinkBehaviour_4A31A025_47F3_CD6F_4191_9F2FD010C551.source = https://console.armadius.com/project/nuskin/pages/booths/moscow.html
+LinkBehaviour_4A320025_47F3_CD6F_41B5_6175005018C7.source = https://console.armadius.com/project/nuskin/pages/booths/dream.html
+LinkBehaviour_4A322026_47F3_CD6D_41B0_3D76CA6C4478.source = https://console.armadius.com/project/nuskin/pages/booths/stage.html
+LinkBehaviour_4A328026_47F3_CD6D_41C8_0055F1BD40EC.source = https://console.armadius.com/project/nuskin/pages/booths/culture.html
+LinkBehaviour_4A3EB023_47F3_CD6B_41C5_A4874ADCDCD9.source = https://console.armadius.com/project/nuskin/pages/booths/15th.html
+LinkBehaviour_4A9ABB3B_47CC_F35B_41A4_C16822AF282E.source = https://console.armadius.com/project/nuskin/pages/booths/duo.html
+LinkBehaviour_4A9B6B3A_47CC_F365_41CC_D559AEB7BC0A.source = https://console.armadius.com/project/nuskin/pages/booths/eco.html
+LinkBehaviour_4A9B8B3A_47CC_F365_41CB_4888DC4EA34B.source = https://console.armadius.com/project/nuskin/pages/booths/tr90.html
